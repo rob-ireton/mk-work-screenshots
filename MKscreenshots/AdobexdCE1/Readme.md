@@ -1,0 +1,2 @@
+# CE1
+CE1 is a MK compression product for contribution encoding. I worked on a number of designs to generate a implified template based engine to build a push-to-activate system to alleviate the need to know the deeper ins and outs of the compression pipeline. 
