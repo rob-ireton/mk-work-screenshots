@@ -1,2 +1,2 @@
 # mk-work-screenshots
-Screenshots of work I have done whilst at Ericsson/TTV/MK
+Screenshots of work I have done whilst at Ericsson/TTV/MK. This is by no means all of it! There are too many to list and some products I cannot access or have suitable record to demonstrate. However, here is more than enough of a sample of the varied concepts and impactful products I have generated - from concept, design to implementation - where I have particpated or driven.
